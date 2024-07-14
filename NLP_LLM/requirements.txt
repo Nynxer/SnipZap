@@ -1,0 +1,7 @@
+PyQt5
+nltk
+numpy
+networkx
+torch
+transformers
+scipy
